@@ -1,0 +1,6 @@
+projectKey=Nov_Demo:master
+serverUrl=http://localhost:9000
+serverVersion=6.7.7.38951
+dashboardUrl=http://localhost:9000/dashboard/index/Nov_Demo:master
+ceTaskId=AW6s4urY6ovESMIeXOb9
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AW6s4urY6ovESMIeXOb9
